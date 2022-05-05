@@ -13,10 +13,3 @@ export const baseService = {
         return response;
     }
   }
-
-// export const baseService = {
-//     get: (url) => {
-//         return fetch(API_URL+url)
-//           .then((res) => res.json())
-//     }
-//   }
